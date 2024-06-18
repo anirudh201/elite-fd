@@ -1,0 +1,9 @@
+introduction to web development
+
+intro to frontend and back end
+ 
+ui and api
+
+web page vs web app
+
+html vs css vs javascript
